@@ -3,6 +3,7 @@
 ### This repository include assignments of:
 
 - push-to-https
+- push-to-http
 
 
 Each folder contains main.cpp and/or header files response to its program.
@@ -16,4 +17,10 @@ Each folder contains main.cpp and/or header files response to its program.
     ├── mbed_settings.py
     ├── network-helper.h
     └── ssl_ca_pem.h
+```
+```
+.
+└── push-to-http
+    ├── main.cpp
+    ├── mbed_app.json
 ```
